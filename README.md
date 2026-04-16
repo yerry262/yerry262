@@ -125,6 +125,7 @@
 **Hardware & Low-Level**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![UEFI](https://img.shields.io/badge/UEFI%20Firmware-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=flat-square&logo=amd&logoColor=white)
 
