@@ -109,6 +109,8 @@
 ![Geth](https://img.shields.io/badge/Geth-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Prysm](https://img.shields.io/badge/Prysm-7B3FE4?style=flat-square&logo=ethereum&logoColor=white)
 ![web3.py](https://img.shields.io/badge/web3.py-F16822?style=flat-square&logo=python&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white)
 
 **Data & Analysis**
 
