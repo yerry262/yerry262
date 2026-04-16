@@ -68,6 +68,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Frontend**
 
@@ -83,6 +84,7 @@
 ![Deck.gl](https://img.shields.io/badge/Deck.gl-1FBAD6?style=flat-square&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Backend**
 
@@ -103,12 +105,22 @@
 ![XMTP](https://img.shields.io/badge/XMTP-FC4F37?style=flat-square&logoColor=white)
 ![Geth](https://img.shields.io/badge/Geth-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Prysm](https://img.shields.io/badge/Prysm-7B3FE4?style=flat-square&logo=ethereum&logoColor=white)
+![web3.py](https://img.shields.io/badge/web3.py-F16822?style=flat-square&logo=python&logoColor=white)
+
+**Data & Analysis**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Voila](https://img.shields.io/badge/Voila-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **AI / LLM**
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Hardware & Low-Level**
 
