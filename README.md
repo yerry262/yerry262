@@ -52,7 +52,6 @@
 |--|---------|--------|
 | 🧬 | [**CancerProgressionAtlas**](https://github.com/yerry262/CancerProgressionAtlas) | Active — crowdsourced imaging DB for AI early detection |
 | 📊 | [**Mempool Dash**](https://github.com/yerry262/mempool-dash) | Active — real-time local node mempool visualizer |
-| 🎮 | [**Clash**](https://github.com/yerry262/Clash) | In progress — Web3 PvP strategy game with land NFTs |
 
 ---
 
@@ -181,7 +180,6 @@
 | 🏠 | [**SmartHouse 2524**](https://github.com/yerry262/SmartHouse2524) | Full-stack smart home panel — Philips Hue, TP-Link, Sonos, Apple TV, Ring, and more | React, Node.js |
 | 🏭 | [**Agent Factory**](https://github.com/yerry262/agent-factory-warehouse) | Curated VSCode AI agent library for debugging, testing, and git workflows | Markdown, Python |
 | 📊 | [**Mempool Dash**](https://github.com/yerry262/mempool-dash) | Real-time Ethereum mempool visualization for local Geth + Prysm nodes | Next.js, Tailwind |
-| 🎮 | [**Clash**](https://github.com/yerry262/Clash) | Web3 strategy game — blockchain base building, land NFTs, and PvP battles | Solidity, React |
 | 🧬 | [**CancerProgressionAtlas**](https://github.com/yerry262/CancerProgressionAtlas) | Open-source crowdsourced cancer imaging database for AI early detection | React, Python |
 | 🎵 | [**Spotify Visualizer**](https://github.com/yerry262/Spotify-Webapp-Visualizer) | Real-time audio visualizer using mel spectrograms, HPCP chroma, and beat data | React, Essentia.js |
 | 📈 | [**Trade Executor**](https://github.com/yerry262/trade-executor) | Algorithmic DeFi trading engine — backtesting and live execution on DEXes | Python |
