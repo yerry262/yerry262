@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/Gmail-jerry21steele-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/jerry-steele-262" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jerry%20Steele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://yerry262.github.io/Personal_Website" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-yerry262.github.io-1a56db?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
@@ -21,6 +25,10 @@
   <a href="https://github.com/yerry262?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-View%20All-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yerry262&style=for-the-badge&color=1a56db&label=PROFILE+VIEWS" />
 </div>
 
 <br />
@@ -35,6 +43,16 @@
 - 🎮 **Occasional game builder** — retro baseball, brick breaker, Connect 4
 - 🧬 **Side mission:** open-source cancer imaging database for AI-powered early detection
 - 🎓 **B.S. Mechanical Engineering**, Marquette University
+
+---
+
+### 🔨 Currently Building
+
+| | Project | Status |
+|--|---------|--------|
+| 🧬 | [**CancerProgressionAtlas**](https://github.com/yerry262/CancerProgressionAtlas) | Active — crowdsourced imaging DB for AI early detection |
+| 📊 | [**Mempool Dash**](https://github.com/yerry262/mempool-dash) | Active — real-time local node mempool visualizer |
+| 🎮 | [**Clash**](https://github.com/yerry262/Clash) | In progress — Web3 PvP strategy game with land NFTs |
 
 ---
 
@@ -65,12 +83,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -130,8 +148,13 @@
 
 **AI / LLM**
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![ROCm](https://img.shields.io/badge/ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white)
 
 **Hardware & Low-Level**
 
